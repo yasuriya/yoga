@@ -179,4 +179,6 @@ window.addEventListener("DOMContentLoaded", function () {
 			.then(() => (statusMessage.innerHTML = message.success))
 			.catch(() => (statusMessage.innerHTML = message.failure));
 	}
+
+	//this is a comment
 });
