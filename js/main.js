@@ -180,10 +180,4 @@ window.addEventListener("DOMContentLoaded", function() {
             .catch(() => (statusMessage.innerHTML = message.failure));
     }
 
-    //this is a comment
-
-    //this is a new comment
-
-    //cat12312312313
-
 });
